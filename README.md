@@ -1,2 +1,6 @@
 # emea-obs-logging-sms-gateway-svc
-observability / critical / emea
+
+Team: **observability**  
+Tier: **critical**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
